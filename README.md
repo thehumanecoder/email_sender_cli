@@ -32,6 +32,14 @@ pip install -r requirements.txt
 
 ## Usage
 
+## Setup Google Developer Console
+
+1. Go to the [Google Developer Console](https://console.developers.google.com/).
+2. Create a new project.
+3. Enable the Gmail API for your project.
+4. Create OAuth 2.0 credentials (client ID and client secret).
+5. Download the credentials JSON file and save it as `credentials.json` in the project root directory.
+
 ### Update Email Content
 
 1. Open the `email.txt` file located in the project root directory.
