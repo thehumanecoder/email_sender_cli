@@ -15,13 +15,13 @@ This is a proof of concept (POC) project for sending emails using the Gmail API.
 1. Clone this repository to your local machine:
 
 ```python
-git clone https://github.com/your-username/email-sender-poc.git
+git clone https://github.com/your-username/email-sender-cli.git
 ```
 
 2. Navigate to the project directory:
 
 ```python
-cd email-sender-poc
+cd email-sender-cli
 ```
 
 3. Install dependencies:
